@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosupe&theme=cobalt" />
+</a>
