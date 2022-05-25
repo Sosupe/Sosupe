@@ -1,6 +1,7 @@
-### Hello My name is Sosupe!
-I can use JavaScript,Python,C...and so on.
-I usually use JavaScript when I make software and bot.
+### Hello My name is 10tera!
+I often use JavaScript(nodejs),typescript,C++,C...</br>
+I can use python, but I dont like python.</br>
+Making software,bot,auto system...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosupe&theme=merko" />
