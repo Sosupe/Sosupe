@@ -4,5 +4,5 @@ I can use python, but I dont like python.</br>
 Making software,bot,auto system...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sosupe&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=merko" />
 </a>
