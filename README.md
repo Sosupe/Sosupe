@@ -1,4 +1,4 @@
-### Hello My name is 10tera!
+### Hello My name is □□□□!
 - Frontend Developer
 - Language
   - JavaScript(Node.js),TypeScript,C#,C++
